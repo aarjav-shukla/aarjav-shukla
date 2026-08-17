@@ -24,3 +24,13 @@
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="assests/divider-skill-map.svg" width="100%">
+</div>
+
+<div align="center">
+  <img src="assests/vitruvian-kaos.svg" alt="Skill Map" width="100%">
+</div>
+
+<br/>
