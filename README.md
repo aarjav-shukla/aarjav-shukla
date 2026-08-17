@@ -30,7 +30,7 @@
 </div>
 
 <div align="center">
-  <img src="assests/vitruvian-kaos.svg" alt="Skill Map" width="100%">
+  <img src="assests/skill-map (2).svg" alt="Skill Map" width="100%">
 </div>
 
 <br/>
