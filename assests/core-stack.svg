@@ -1,0 +1,11 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" fill="none">
+  <rect width="1200" height="200" rx="20" fill="#0b1020"/>
+  <rect x="70" y="40" width="220" height="120" rx="16" fill="#111827" stroke="#7dd3fc"/>
+  <rect x="340" y="40" width="220" height="120" rx="16" fill="#111827" stroke="#34d399"/>
+  <rect x="610" y="40" width="220" height="120" rx="16" fill="#111827" stroke="#f9a8d4"/>
+  <rect x="880" y="40" width="220" height="120" rx="16" fill="#111827" stroke="#fbbf24"/>
+  <text x="180" y="100" fill="#E5E7EB" font-family="Arial, sans-serif" font-size="28" text-anchor="middle">Frontend</text>
+  <text x="450" y="100" fill="#E5E7EB" font-family="Arial, sans-serif" font-size="28" text-anchor="middle">API</text>
+  <text x="720" y="100" fill="#E5E7EB" font-family="Arial, sans-serif" font-size="28" text-anchor="middle">Data</text>
+  <text x="990" y="100" fill="#E5E7EB" font-family="Arial, sans-serif" font-size="28" text-anchor="middle">Ops</text>
+</svg>

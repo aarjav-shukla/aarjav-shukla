@@ -1,0 +1,104 @@
+<svg viewBox="0 0 1600 400" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace">
+  <defs>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1.4" cy="1.4" r="1.4" fill="#1B2430" />
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0B0F14" stop-opacity="0" />
+      <stop offset="100%" stop-color="#0B0F14" stop-opacity="1" />
+    </linearGradient>
+
+    <clipPath id="cp1"><rect x="136" y="228" width="0" height="26">
+      <animate attributeName="width" calcMode="linear" dur="21.75s" repeatCount="indefinite"
+        keyTimes="0;0.0986;0.1630;0.2168;1" values="0;413;413;0;0" />
+    </rect></clipPath>
+
+    <clipPath id="cp2"><rect x="136" y="228" width="0" height="26">
+      <animate attributeName="width" calcMode="linear" dur="21.75s" repeatCount="indefinite"
+        keyTimes="0;0.2352;0.3085;0.3729;0.4129;1" values="0;0;307;307;0;0" />
+    </rect></clipPath>
+
+    <clipPath id="cp3"><rect x="136" y="228" width="0" height="26">
+      <animate attributeName="width" calcMode="linear" dur="21.75s" repeatCount="indefinite"
+        keyTimes="0;0.4313;0.5096;0.5740;0.6168;1" values="0;0;329;329;0;0" />
+    </rect></clipPath>
+
+    <clipPath id="cp4"><rect x="136" y="228" width="0" height="26">
+      <animate attributeName="width" calcMode="linear" dur="21.75s" repeatCount="indefinite"
+        keyTimes="0;0.6352;0.7059;0.7704;0.8089;1" values="0;0;297;297;0;0" />
+    </rect></clipPath>
+
+    <clipPath id="cp5"><rect x="136" y="228" width="0" height="26">
+      <animate attributeName="width" calcMode="linear" dur="21.75s" repeatCount="indefinite"
+        keyTimes="0;0.8274;0.8855;0.9500;0.9816;1" values="0;0;244;244;0;0" />
+    </rect></clipPath>
+  </defs>
+
+  <!-- background -->
+  <rect width="1600" height="400" fill="#0B0F14" />
+  <rect width="1600" height="400" fill="url(#dots)" opacity="0.55" />
+
+  <!-- right-side circuit trace -->
+  <g stroke="#26323F" stroke-width="1.6" fill="none">
+    <path d="M 980 60 L 1120 60 L 1120 140 L 1260 140 L 1260 90 L 1420 90" />
+    <path d="M 1040 340 L 1160 340 L 1160 260 L 1300 260 L 1300 310 L 1460 310" />
+    <path d="M 1350 40 L 1350 180 L 1500 180" />
+  </g>
+  <g fill="#0B0F14" stroke="#2E3B49" stroke-width="1.6">
+    <circle cx="980" cy="60" r="4.5" />
+    <circle cx="1120" cy="140" r="4.5" />
+    <circle cx="1260" cy="90" r="4.5" />
+    <circle cx="1040" cy="340" r="4.5" />
+    <circle cx="1160" cy="260" r="4.5" />
+    <circle cx="1300" cy="310" r="4.5" />
+    <circle cx="1350" cy="40" r="4.5" />
+  </g>
+  <circle cx="1420" cy="90" r="5.5" fill="#56E1C9">
+    <animate attributeName="opacity" values="1;0.4;1" dur="2.4s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="1460" cy="310" r="5.5" fill="#56E1C9">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="1500" cy="180" r="5.5" fill="#56E1C9">
+    <animate attributeName="opacity" values="1;0.4;1" dur="3.1s" repeatCount="indefinite" />
+  </circle>
+
+  <rect x="960" width="640" height="400" fill="url(#fade)" opacity="0.35" />
+
+  <!-- eyebrow -->
+  <circle cx="112" cy="112" r="4" fill="#56E1C9" />
+  <text x="128" y="118" font-size="15" letter-spacing="3" fill="#7C8898">SYSTEM · ONLINE</text>
+
+  <!-- headline -->
+  <text x="108" y="205" font-family="'Space Grotesk','Helvetica Neue',Arial,sans-serif" font-size="58" font-weight="600" fill="#E9EDF2" letter-spacing="-0.5">
+    Aarjav <tspan fill="#56E1C9">Shukla</tspan>
+  </text>
+
+  <!-- typewriter row -->
+  <text x="112" y="248" font-size="18" fill="#56E1C9">&gt;</text>
+
+  <g font-size="18" fill="#C7D0DA">
+    <text x="136" y="248" clip-path="url(#cp1)">const developer = new AarjavShukla();</text>
+    <text x="136" y="248" clip-path="url(#cp2)">building systems that scale.</text>
+    <text x="136" y="248" clip-path="url(#cp3)">git commit -m 'shipping ideas'</text>
+    <text x="136" y="248" clip-path="url(#cp4)">// turning coffee into code</text>
+    <text x="136" y="248" clip-path="url(#cp5)">npm run build --future</text>
+  </g>
+
+  <!-- cursor: blinks continuously, x tracks the typed width -->
+  <rect y="234" width="9" height="20" fill="#56E1C9">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.4;0.5;0.9;1" dur="0.9s" repeatCount="indefinite" />
+    <animate attributeName="x" calcMode="linear" dur="21.75s" repeatCount="indefinite"
+      keyTimes="0.0000;0.0986;0.1630;0.2168;0.2352;0.3085;0.3729;0.4129;0.4313;0.5096;0.5740;0.6168;0.6352;0.7059;0.7704;0.8089;0.8274;0.8855;0.9500;0.9816;1.0000"
+      values="136;549;549;136;136;443;443;136;136;465;465;136;136;433;433;136;136;380;380;136;136" />
+  </rect>
+
+  <!-- precision rule -->
+  <line x1="112" y1="320" x2="1500" y2="320" stroke="#1C242F" stroke-width="1" />
+  <line x1="112" y1="315" x2="112" y2="325" stroke="#3A4756" />
+  <line x1="406" y1="315" x2="406" y2="325" stroke="#3A4756" />
+  <line x1="700" y1="315" x2="700" y2="325" stroke="#56E1C9" stroke-width="1.6" />
+  <line x1="994" y1="315" x2="994" y2="325" stroke="#3A4756" />
+  <line x1="1288" y1="315" x2="1288" y2="325" stroke="#3A4756" />
+  <text x="700" y="345" font-size="11" fill="#56E1C9" text-anchor="middle">v2.4</text>
+</svg>
