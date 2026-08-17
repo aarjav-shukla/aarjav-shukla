@@ -19,7 +19,7 @@
   <strong>Aarjav Shukla</strong> · aarjav-shukla<br/>
   <strong>Full Stack Developer</strong> · full-stack applications & contributing to open-source ecosystems <br/>
  Full-Stack Development • REST APIs • Databases • Git • Open Source<br/>
-  B.Tech Computer Science · Indian Institute of Technology · Class of 2029<br/>
+  B.Tech Computer Science · Indian Institute of Information Technology · Class of 2029<br/>
   <em>Ambitious open-source initiatives, developer infrastructure & scalable web systems</em><br/>
 </div>
 
