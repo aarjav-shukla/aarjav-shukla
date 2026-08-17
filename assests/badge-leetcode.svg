@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="34" viewBox="0 0 130 34">
+  <defs>
+    <clipPath id="outer-lc">
+      <rect x="0" y="0" width="130" height="34" rx="7" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#outer-lc)">
+    <rect x="0" y="0" width="130" height="34" fill="#0d0d0f" stroke="#1C242F" stroke-width="1" />
+    <rect x="0" y="0" width="34" height="34" fill="#FFA116" />
+  </g>
+  <text x="17" y="22" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" font-weight="700" fill="#0d0d0f">&lt;/&gt;</text>
+  <text x="44" y="22" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#e5e5ea">LeetCode</text>
+</svg>

@@ -34,3 +34,14 @@
 </div>
 
 <br/>
+
+<div align="center">
+  <a href="https://x.com/Axrjav_droid" target="_blank" rel="noopener noreferrer">
+    <img src="assests/badge-twitter (1).svg" alt="Twitter" width="180" />
+  </a>
+  <a href="https://leetcode.com/u/axrjav/" target="_blank" rel="noopener noreferrer">
+    <img src="assests/badge-leetcode.svg" alt="LeetCode" width="180" />
+  </a>
+</div>
+
+<br/>
