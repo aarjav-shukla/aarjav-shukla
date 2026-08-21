@@ -14,7 +14,7 @@
 
 <br/>
 
-<!-- Plain-text about — always visible even without SVG rendering -->
+
 <div align="center">
   <strong>Aarjav Shukla</strong> · aarjav-shukla<br/>
   <strong>Full Stack Developer</strong> · full-stack applications & contributing to open-source ecosystems <br/>
