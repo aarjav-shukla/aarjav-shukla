@@ -46,7 +46,7 @@ const aarjav: Developer = {
 
 </td>
 <td align="center" valign="top" width="50%">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9zYXQ0ODFtZTdsOGhza2YzemdhZHY1enVwaWVvdXJhOW9lMXU3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="320" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9zYXQ0ODFtZTdsOGhza2YzemdhZHY1enVwaWVvdXJhOW9lMXU3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="310" />
 </td>
 </tr>
 </table>
