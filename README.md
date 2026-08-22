@@ -46,7 +46,7 @@ const aarjav: Developer = {
 
 </td>
 <td align="center" valign="top" width="42%">
-<img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000001b64821196db935685927a29&ts=496504&p=fs&cid=1&sig=8e922132b870e56a3e18726fb5a3736e36f2778cb51e826330e520b0296859a3&v=0" width="400" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9zYXQ0ODFtZTdsOGhza2YzemdhZHY1enVwaWVvdXJhOW9lMXU3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="325" />
 </td>
 </tr>
 </table>
