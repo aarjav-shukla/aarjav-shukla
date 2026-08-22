@@ -24,7 +24,7 @@
 </div> -->
 <table>
 <tr>
-<td valign="top" width="58%">
+<td valign="top" width="50%">
 
 ```typescript
 const aarjav: Developer = {
